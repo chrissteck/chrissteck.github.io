@@ -1,7 +1,3 @@
-Run the command:
+I've used tmux to keep the web page up constantly.
 
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open (http://csci331vm.cs.montana.edu:3066/)
